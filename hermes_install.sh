@@ -13,7 +13,7 @@ RST='\033[0m'
 export DEBIAN_FRONTEND=noninteractive
 
 echo -e "${CYN}=====================================================${RST}"
-echo -e "${GRN}                   THEVOIDKERNEL"
+echo -e "${GRN}                   HERMES AGENT BY DEEP"
 echo -e "${CYN}=====================================================${RST}"
 
 echo -e "${CYN}=====================================================${RST}"
