@@ -45,7 +45,7 @@ graph LR
 ### **Copy and paste this command in Termux:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/AbuZar-Ansarii/Hermes-Agent-On-Android/main/nous_agent.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Deepkundu98/hermes-agent/master/nous_agent.sh | bash
 ```
 
 ## 🛠️ Manual Installation (Recommended)
