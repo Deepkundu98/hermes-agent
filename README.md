@@ -55,26 +55,24 @@ pkg install git
 ```
 ```
 # 1. Clone this repository
-git clone https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android.git
-cd Hermes-Agent-On-Android
+git clone https://github.com/Deepkundu98/hermes-agent.git
+cd hermes-agent
 
 # 2. Make the script executable
-chmod +x agent_install.sh
+chmod +x hermes_install.sh
 
 # 3. Run the installer
-./agent_install.sh
+./hermes_install.sh
 ```
 
 ## 🤖 Start Agent
 Run these commands one by one after installling
 ```
-cd
-proot-distro login ubuntu
+
 ```
 ```
 cd hermes-agent
-source venv/bin/activate
-```
+
 Run for setting it up
 ```
 hermes setup
@@ -92,7 +90,7 @@ hermes gateway
 
 | Requirement | Minimum | Recommended |
 |:------------|:-------:|-------------:|
-| **Android Version** | 11  |  13,14 or 15 |
+| **Android Version** | 10 | 11  |  13,14 or 15 |
 | **Storage Space** | 3GB | 5GB+ |
 | **RAM** | 2GB | 4GB+ |
 | **Internet** | Required | Fast connection |
