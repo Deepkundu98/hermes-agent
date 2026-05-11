@@ -51,9 +51,8 @@ curl -fsSL https://raw.githubusercontent.com/AbuZar-Ansarii/Hermes-Agent-On-Andr
 ## 🛠️ Manual Installation (Recommended)
 Prefer to do it yourself? Here's the step-by-step:
 ```
-pkg install git
-```
-```
+pkg install ollama git
+
 # 1. Clone this repository
 git clone https://github.com/Deepkundu98/hermes-agent.git
 cd hermes-agent
