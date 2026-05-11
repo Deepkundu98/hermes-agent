@@ -66,25 +66,22 @@ chmod +x hermes_install.sh
 ```
 
 ## 🤖 Start Agent
-Run these commands one by one after installling
-```
+##Run these commands one by one after installling
 
-```
-```
 cd hermes-agent
 
-Run for setting it up
-```
+## Run for setting it up
+
 hermes setup
-```
-Run for using it
-```
+
+## Run for using it
+
 hermes
-```
+
 ## Start gateway
-```
+
 hermes gateway
-```
+
 
 ## ⚙️ System Requirements
 
